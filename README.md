@@ -55,6 +55,13 @@ The project explores predictive modeling on the "Online Retail II" dataset to id
 - Tree structure for decision model
 - Confusion matrices
 
+
+![image](https://github.com/user-attachments/assets/35a407b3-7d29-41e2-8afe-3dd2546a0b5d)
+
+
+![image](https://github.com/user-attachments/assets/8548f261-b8fb-49a0-961e-7fa1e0783162)
+
+
 ## Outcome
 
 Both models performed well, but Decision Tree had slightly better overall performance. This approach helps businesses forecast customer behavior and improve inventory and marketing strategies.
